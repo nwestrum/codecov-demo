@@ -1,2 +1,1 @@
-# codecov-demo
-This repository is meant to show the features and functionalities of Codecov. You can follow along [here](https://docs.codecov.com/docs/codecov-tutorial).
+[![codecov](https://codecov.io/gh/nwestrum/codecov-demo/branch/main/graph/badge.svg?token=9A5977PA4Z)](https://codecov.io/gh/nwestrum/codecov-demo)
