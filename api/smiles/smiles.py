@@ -1,4 +1,5 @@
-from .smiles import Smiles
-
-def test_smile():
-    assert Smiles.smile() == ":)"
+class Smiles:
+    def smile():
+        return ":)"
+    def frown():
+        return ":("
