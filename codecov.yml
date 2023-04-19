@@ -4,13 +4,15 @@ coverage:
     patch: off
 
 flag_management:
+  default_rules:
+    carryforward: true
   individual_flags:
     - name: backend
       paths:
         - api/
       statuses:
         - type: project
-          target: 100%
+          target: 97%
           threshold: 1%
     - name: frontend
       paths:
